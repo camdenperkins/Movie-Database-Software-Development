@@ -4,16 +4,18 @@ This was the final project for my Software Development class. <br> <br>
 I created a comprehensive movie database application employing the Model-View-Controller (MVC) architectural pattern with JUnit testing. This approach ensured a clean and organized codebase, eliminating duplication and promoting modularity. The code is  commented, facilitating ease of understanding and future maintenance. The final product is a great example of what I learned from a challenging Fall 2024 semester course and showcases my ability to program at a high level.
 
 # Functionality
-The application's features allow users to read the information in the three files and store it. Allows the user to interactively ask questions about the information and compute the answers
+The application's features allow users to read the information in the three files and store it. Allows the user to interact with the information and compute the answers.
 
-<ins>Questions Include:</ins> <br>
-1. Get total US box office earnings in a single year
-2. Get the count of movies for each director
-3. Get a list of top N directors by number of appearances
-4. Find the director or cast of a movie by rank
-5. Get the highest-rated movie in a given year
+<ins>Queries Include:</ins> <br>
+<img width="235" height="151" alt="image" src="https://github.com/user-attachments/assets/87ef2987-cf34-42ab-b0e8-f582cf62bb83" /> 
+
+When a button is clicked, a text input field and submit button appear allowing the user to input correlated information. An example is below:
+<img width="235" height="254" alt="image" src="https://github.com/user-attachments/assets/3bfe5acd-c8a3-49ea-a1c7-ed3fbfea891b" />
+
 
 # Examples of Possible Answers
+<img width="506" height="307" alt="image" src="https://github.com/user-attachments/assets/855c823f-039a-4448-99b9-25c4693fd8c8" />
+
 
 
 
