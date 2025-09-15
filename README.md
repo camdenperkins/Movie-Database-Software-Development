@@ -9,7 +9,8 @@ The application's features allow users to read the information in the three file
 <ins>Queries Include:</ins> <br>
 <img width="235" height="151" alt="image" src="https://github.com/user-attachments/assets/87ef2987-cf34-42ab-b0e8-f582cf62bb83" /> 
 
-When a button is clicked, a text input field and submit button appear allowing the user to input correlated information. An example is below:
+When a button is clicked, a text input field and submit button appear allowing the user to input correlated information. An example is below: <br>
+
 <img width="235" height="254" alt="image" src="https://github.com/user-attachments/assets/3bfe5acd-c8a3-49ea-a1c7-ed3fbfea891b" />
 
 
